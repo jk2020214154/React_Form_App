@@ -1,7 +1,7 @@
 # 效果展示
 
 * [github链接](https://github.com/jk2020214154/React_Form_App) 
-* [acgit链接](https://git.acwing.com/jk20214154/react_form_app)
+* [acgit链接](https://git.acwing.com/jk20214154/web_class/-/tree/master/5.1.2react_form_app)
 
 > 功能实现：
 > 实现数据的显示和删除,当删除全部时，则显示`无表单列表了`
